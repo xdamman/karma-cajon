@@ -1,4 +1,4 @@
-describe('adapter requirejs', function() {
+describe('adapter cajon', function() {
   var load, originalLoadSpy;
 
   beforeEach(function() {
